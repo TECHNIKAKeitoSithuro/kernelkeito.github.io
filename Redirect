@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <!-- This line handles the redirect -->
+    <meta http-equiv="refresh" content="0; url=https://technikakeitosithuro.github.io/kernelkeito.github.io/">
+    <title>Page Redirection</title>
+</head>
+<body>
+    <!-- Fallback link for older browsers or accessibility -->
+    <p>If you are not redirected automatically, follow this <a href="https://technikakeitosithuro.github.io/kernelkeito.github.io/">link to Kernel Keito</a>.</p>
+</body>
+</html>
