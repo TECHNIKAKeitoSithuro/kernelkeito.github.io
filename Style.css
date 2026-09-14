@@ -17,7 +17,7 @@ border: darkolivegreen;
 border-style: dotted;
 width: 500px;
 height: 200px;
-margin-left: 5%;
+margin-left: 30%;
 margin-right: auto;
 }
 
@@ -28,7 +28,7 @@ border: darkolivegreen;
 border-style: dotted;
 width: 150px;
 height: 40px;
-margin-left: 1%;
+margin-left: 3%;
 margin-right: auto;
 }
 
@@ -39,7 +39,7 @@ border: darkolivegreen;
 border-style: dotted;
 width: 150px;
 height: 40px;
-margin-left: 2%;
+margin-left: 7%;
 margin-right: auto;
 }
 
@@ -50,7 +50,7 @@ border: darkolivegreen;
 border-style: dotted;
 width: 150px;
 height: 40px;
-margin-left: 3%;
+margin-left: 13%;
 margin-right: auto;
 }
 
@@ -61,6 +61,17 @@ border: darkolivegreen;
 border-style: dotted;
 width: 150px;
 height: 40px;
-margin-left: 4%;
+margin-left: 20%;
+margin-right: auto;
+}
+
+#box2{
+    background-color: cadetblue;
+font-size: 22px;
+border: darkolivegreen;
+border-style: dotted;
+width: 150px;
+height: 40px;
+margin-left: 25%;
 margin-right: auto;
 }
