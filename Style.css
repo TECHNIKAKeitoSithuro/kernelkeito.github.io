@@ -1,77 +1,130 @@
 body{
 background: #919191;
-background: linear-gradient(36deg, rgba(145, 145, 145, 1) 0%, rgba(255, 255, 255, 1) 75%);
+background: linear-gradient(36deg, rgb(145, 145, 145) 0%, rgba(255, 255, 255, 1) 75%);
 
 }
 
 h1{
-    background-color: #919191;
+   background: #000000;
+    background: linear-gradient(355deg, rgba(0,0,0,0) 0%, rgb(255, 255, 255) 100%);
     border: black;
     border-style: groove;
 }
 
 #box1{
-    background-color: cadetblue;
+    background: #000000;
+    background-color: yellow;
 font-size: 22px;
-border: darkolivegreen;
-border-style: dotted;
+border: rgb(0, 0, 0);
+border-style: inset;
 width: 500px;
-height: 200px;
+height: 210px;
 margin-left: 30%;
 margin-right: auto;
+box-shadow: inset 5px 5px black;
+
 }
 
 h2{
-    background-color: cadetblue;
+    background: #000000;
+    background: linear-gradient(355deg, rgba(0,0,0,0) 0%, rgb(255, 255, 255) 100%);
 font-size: 22px;
-border: darkolivegreen;
-border-style: dotted;
+border: black;
+border-style: outset;
 width: 150px;
 height: 40px;
 margin-left: 3%;
 margin-right: auto;
+box-shadow: inset;
+box-shadow: 10px 5px 5px black;
+
 }
 
 h3{
-    background-color: cadetblue;
+   background: #000000;
+    background: linear-gradient(355deg, rgba(0,0,0,0) 0%, rgb(255, 255, 255) 100%);
 font-size: 22px;
-border: darkolivegreen;
-border-style: dotted;
+border: black;
+border-style: outset;
 width: 150px;
 height: 40px;
 margin-left: 7%;
 margin-right: auto;
+box-shadow: 10px 5px 5px black;
 }
 
 h4{
-    background-color: cadetblue;
+   background: #000000;
+    background: linear-gradient(355deg, rgba(0,0,0,0) 0%, rgb(255, 255, 255) 100%);
 font-size: 22px;
-border: darkolivegreen;
-border-style: dotted;
+border: black;
+border-style: outset;
 width: 150px;
 height: 40px;
 margin-left: 13%;
 margin-right: auto;
+box-shadow: 10px 5px 5px black;
 }
 
 h5{
-    background-color: cadetblue;
+    background: #000000;
+    background: linear-gradient(355deg, rgba(0,0,0,0) 0%, rgb(255, 255, 255) 100%);
 font-size: 22px;
-border: darkolivegreen;
-border-style: dotted;
+border: black;
+border-style: outset;
 width: 150px;
 height: 40px;
 margin-left: 20%;
 margin-right: auto;
+box-shadow: 10px 5px 5px black;
 }
 
 #box2{
-    background-color: cadetblue;
+    background: #000000;
+    background: linear-gradient(355deg, rgba(0,0,0,0) 0%, rgb(255, 255, 255) 100%);
 font-size: 22px;
-border: darkolivegreen;
-border-style: dotted;
+border: black;
+border-style: outset;
 width: 150px;
 height: 40px;
 margin-left: 25%;
 margin-right: auto;
+box-shadow: 10px 5px 5px black;
 }
+
+a{
+    color: rgb(166, 252, 238);
+    width: 150px;
+    height:40px;
+    border: #919191;
+    border-style:outset;
+    background: #000000;
+    background: linear-gradient(171deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%);
+    border-width: 2px;
+    box-shadow: 10px 5px 5px black;
+}
+
+#box3{
+background-color: rgb(157, 108, 255);
+font-size: 22px;
+border: black;
+border-style:double;
+width: 250px;
+height: 220px;
+margin-left: 5%;
+margin-right: 20%;
+box-shadow: 10px 5px 5px black;
+text-shadow: 5px 5px 5px rgb(81, 81, 81);
+}
+
+#box4{
+background-color: rgb(157, 108, 255);
+font-size: 22px;
+border: rgb(0, 0, 0);
+border-style: double;
+width: 250px;
+height: 260px;
+margin-left: 70%;
+margin-right: 3%;
+}
+
