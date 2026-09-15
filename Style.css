@@ -18,7 +18,7 @@ font-size: 22px;
 border: rgb(0, 0, 0);
 border-style: inset;
 width: 500px;
-height: 320px;
+height: 335px;
 margin-left: 30%;
 margin-right: auto;
 box-shadow: inset 5px 5px black;
@@ -123,7 +123,7 @@ font-size: 22px;
 border: rgb(0, 0, 0);
 border-style: double;
 width: 250px;
-height: 300px;
+height: 330px;
 margin-left: 70%;
 margin-right: 3%;
 }
